@@ -1,5 +1,8 @@
 xgboost
-sklearn
+scikit-learn
 pandas
 numpy
+seaborn
+ydata-profiling
+
 
